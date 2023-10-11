@@ -1,5 +1,5 @@
 img{
-    max-width: 250px;
+    max-width: 150px;
     max-height: auto;
     border: 3px solid black;
     padding-left: 65px;
@@ -45,8 +45,7 @@ nav{
 main{
     background-color: black;
     text-align: center;
-    display: flex;
-    flex-direction: row;
+
 }
 
 footer{
@@ -62,4 +61,7 @@ footer{
     max-height: auto;
     text-align: center;
 
+}
+aside{
+    padding-bottom: 20px;
 }
